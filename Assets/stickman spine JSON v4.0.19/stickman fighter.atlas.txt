@@ -1,0 +1,174 @@
+stickman fighter.png
+size:2492,201
+filter:Linear,Linear
+pma:true
+scale:0.5
+stickman/arm_L
+bounds:2262,108,218,42
+stickman/arm_R
+bounds:2262,65,217,41
+stickman/arm_stroke_L
+bounds:650,3,235,58
+stickman/arm_stroke_R
+bounds:412,2,236,57
+stickman/body
+bounds:2,7,35,192
+stickman/body_stroke
+bounds:2095,12,51,199
+offsets:0,4,51,207
+rotate:90
+stickman/eyes-A
+bounds:1888,2,85,25
+rotate:90
+stickman/eyes-B
+bounds:2078,71,52,16
+stickman/head
+bounds:1030,73,126,126
+stickman/head_stroke
+bounds:245,58,141,141
+stickman/leg_L
+bounds:2262,152,47,228
+rotate:90
+stickman/leg_R
+bounds:2032,89,46,228
+rotate:90
+stickman/leg_stroke_L
+bounds:1983,137,62,244
+rotate:90
+stickman/leg_stroke_R
+bounds:1358,9,63,244
+rotate:90
+stickman/mouth
+bounds:2229,138,61,23
+rotate:90
+stickman/shadow
+bounds:1761,89,269,17
+vfx/muzzle flash pistol/muzzle flash pistol_00000
+bounds:313,2,54,48
+offsets:4,61,167,167
+rotate:90
+vfx/muzzle flash pistol/muzzle flash pistol_00001
+bounds:1377,74,125,47
+offsets:11,61,167,167
+rotate:90
+vfx/muzzle flash pistol/muzzle flash pistol_00002
+bounds:825,66,133,76
+offsets:11,49,167,167
+rotate:90
+vfx/muzzle flash pistol/muzzle flash pistol_00003
+bounds:388,61,138,96
+offsets:17,38,167,167
+rotate:90
+vfx/muzzle flash pistol/muzzle flash pistol_00004
+bounds:727,66,133,96
+offsets:25,39,167,167
+rotate:90
+vfx/muzzle flash pistol/muzzle flash pistol_00005
+bounds:1285,74,125,90
+offsets:29,42,167,167
+rotate:90
+vfx/muzzle flash pistol/muzzle flash pistol_00006
+bounds:1604,3,55,82
+offsets:49,46,167,167
+vfx/muzzle flash rifle/muzzle flash rifle_00000
+bounds:593,63,132,136
+offsets:0,26,167,167
+vfx/muzzle flash rifle/muzzle flash rifle_00001
+bounds:486,62,137,105
+offsets:2,23,167,167
+rotate:90
+vfx/muzzle flash rifle/muzzle flash rifle_00002
+bounds:159,48,84,151
+offsets:1,8,167,167
+vfx/muzzle flash uzi/muzzle flash uzi_00000
+bounds:1281,4,75,67
+offsets:0,50,167,167
+vfx/muzzle flash uzi/muzzle flash uzi_00001
+bounds:1944,9,73,78
+offsets:1,45,167,167
+vfx/muzzle flash uzi/muzzle flash uzi_00002
+bounds:1426,85,114,60
+offsets:3,56,167,167
+rotate:90
+vfx/muzzle flash uzi/muzzle flash uzi_00003
+bounds:1761,108,85,91
+offsets:4,52,167,167
+vfx/muzzle flash uzi/muzzle flash uzi_00004
+bounds:1566,87,112,101
+offsets:5,44,167,167
+rotate:90
+vfx/slash/slash_0
+bounds:903,67,125,132
+offsets:5,0,130,132
+vfx/slash/slash_1
+bounds:1158,73,125,126
+offsets:2,0,130,132
+vfx/slash/slash_2
+bounds:1669,89,110,90
+offsets:9,0,130,132
+rotate:90
+vfx/slash/slash_3
+bounds:2019,10,77,57
+offsets:26,17,130,132
+rotate:90
+vfx/smoke right/smoke right_00000
+bounds:2078,7,56,15
+offsets:16,80,167,167
+rotate:90
+vfx/smoke right/smoke right_00001
+bounds:1915,6,81,27
+offsets:19,76,167,167
+rotate:90
+vfx/smoke right/smoke right_00002
+bounds:130,6,90,36
+offsets:23,76,167,167
+vfx/smoke right/smoke right_00003
+bounds:39,3,89,39
+offsets:27,75,167,167
+vfx/smoke right/smoke right_00004
+bounds:1892,110,89,41
+offsets:30,74,167,167
+rotate:90
+vfx/smoke right/smoke right_00005
+bounds:1848,110,89,42
+offsets:32,74,167,167
+rotate:90
+vfx/smoke right/smoke right_00006
+bounds:222,2,89,44
+offsets:33,73,167,167
+vfx/smoke right/smoke right_00007
+bounds:1935,123,76,46
+offsets:48,71,167,167
+rotate:90
+vfx/smoke right/smoke right_00008
+bounds:363,4,52,47
+offsets:74,70,167,167
+rotate:90
+vfx/smoke right/smoke right_00009
+bounds:2296,12,51,46
+offsets:76,70,167,167
+rotate:90
+vfx/smoke right/smoke right_00010
+bounds:2344,15,48,43
+offsets:80,70,167,167
+rotate:90
+vfx/smoke right/smoke right_00011
+bounds:2389,17,46,36
+offsets:82,69,167,167
+rotate:90
+vfx/smoke right/smoke right_00012
+bounds:1983,119,16,28
+offsets:112,69,167,167
+rotate:90
+weapon/pistol
+bounds:1488,86,113,76
+rotate:90
+weapon/rifle
+bounds:1661,4,225,81
+weapon/sword
+bounds:887,2,62,392
+offsets:4,0,68,397
+rotate:90
+weapon/uzi
+bounds:39,44,155,118
+rotate:90
